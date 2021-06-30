@@ -35,5 +35,5 @@ There are U Net model and loss function in model dir.
 
 **rle_mask.ipynb** is for submission to Kaggle.
 
-# Submission Data
+# Model Weights and Submission Data
 Submission Data(RLE Mask) [Here](https://drive.google.com/drive/folders/1TJJ6ydneODjaVlfALsJn0Wt2Ks0hvv7O?usp=sharing)
