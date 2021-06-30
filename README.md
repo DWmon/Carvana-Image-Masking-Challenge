@@ -1,5 +1,5 @@
 # Carvana Image Masking Challenge Solution
-This challenge is to create a deep learning model that segment car and background.
+This challenge is to create a deep learning model that segment car and background
 
 Challenge information [Here](https://www.kaggle.com/c/carvana-image-masking-challenge)
 
@@ -29,11 +29,11 @@ Data download [Here](https://www.kaggle.com/c/carvana-image-masking-challenge/da
 # Train and Test
 This solution uses U Net for segmentation
 
-There are U Net model and loss function in model dir.
+There are U Net model and loss function in model dir
 
-**main.ipynb** contains data extraction, training and testing.
+**main.ipynb** contains data extraction, training and testing
 
-**rle_mask.ipynb** is for submission to Kaggle.
+**rle_mask.ipynb** is for submission to Kaggle
 
 # Model Weights and Submission Data
 Model Weights [Here](https://drive.google.com/drive/folders/1TJJ6ydneODjaVlfALsJn0Wt2Ks0hvv7O?usp=sharing)
