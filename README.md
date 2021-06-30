@@ -37,4 +37,5 @@ There are U Net model and loss function in model dir.
 
 # Model Weights and Submission Data
 Model Weights [Here](https://drive.google.com/drive/folders/1TJJ6ydneODjaVlfALsJn0Wt2Ks0hvv7O?usp=sharing)
+
 Submission Data(RLE Mask) [Here](https://drive.google.com/drive/folders/1TJJ6ydneODjaVlfALsJn0Wt2Ks0hvv7O?usp=sharing)
